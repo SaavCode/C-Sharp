@@ -1,0 +1,6 @@
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\bin\Debug\forLoops.exe.config
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\bin\Debug\forLoops.exe
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\bin\Debug\forLoops.pdb
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\obj\Debug\forLoops.exe
+C:\Users\saavf\Desktop\C#\forLoops\forLoops\obj\Debug\forLoops.pdb
